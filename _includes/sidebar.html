@@ -1,5 +1,8 @@
 <div id="sidebar">
   <header>
+      <div>
+          <img src="{{site.baseurl}}/assets/images/icons/logo.png" class="site-image">
+      </div>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
         {% unless page.url == "/" %}
