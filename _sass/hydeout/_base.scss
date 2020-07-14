@@ -88,6 +88,8 @@ input[type="text"], input[type="email"], input[type="search"], input[type="submi
   padding: $padding-v $padding-h;
   border: 1px solid $border-color;
   border-radius: $border-radius;
+  outline: none;
+  background-color: #FFFFFFAA;
 }
 
 button, input[type="submit"] {

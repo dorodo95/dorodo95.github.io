@@ -59,7 +59,7 @@ body {
   > .content {
     flex-grow: 1;
     padding-bottom: $section-spacing * 2;
-    max-width: 58rem;
+    max-width: 50rem;
   }
 }
 
@@ -124,8 +124,6 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100px;
-    height: 100px;
   }
 
   header {
@@ -167,8 +165,6 @@ body {
 
     .site-image {
       display: block;
-      height: 120px; 
-      width: 120px;
     }
 
     > *:last-child {
