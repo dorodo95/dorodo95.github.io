@@ -4,10 +4,8 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+<img src="{{site.baseurl}}/assets/images/me2.png" class="site-image">
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hello! I'm Rodolfo. I work as a Technical Artist at [Aquiris][Aquiris], currently working on the Free-To-Play game Looney Tunes: World of Mayhem.
+
+[Aquiris]: http://aquiris.com.br/
