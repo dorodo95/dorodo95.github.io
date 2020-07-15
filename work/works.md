@@ -14,7 +14,7 @@ role: "UI, VFX, Asset Pipeline"
       <img src="{{site.baseurl}}/assets/images/wom.png" class = "workBanner">
       <div class = "descriptionTitle">{{page.gameName}} ({{page.date}}): {{page.platform}}
       <br><br> {{page.role}}</div>
-    </a>   <script> </script>
+    </a>
     </div>
 
-  
+    <script> </script>
