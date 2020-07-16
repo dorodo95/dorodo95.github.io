@@ -77,6 +77,13 @@ img {
   transition: all .2s ease-out
 }
 
+@media(max-width: 1200px)
+{
+  .frame .descriptionTitle{
+    font-size: $large-font-size * 0.85;
+  }
+}
+
 .workBanner{
   -webkit-filter: brightness(1);
   filter: brightness(1);

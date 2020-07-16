@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 Hello! I'm <b>Rodolfo</b>. I'm a <b>Technical Artist</b> currently working at [Aquiris], on the mobile game [Looney Tunes: World of Mayhem]. I've been on the industry for the past 3 years and I'm extremely motivated by empowering artists and making cool stuff.
-
+<br><br>
 <h1>Nice. What can you do?</h1>
 
 My specialties include:

@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Devlog
-tagline:          'For everyone curious about games'
-description:      'Soon to have content give me two weeks tops'
+tagline:          'Portfolio: Rodolfo Salazar'
+description:      'Rodolfo Salazar <br> Technical Artist'
 url:              https://dorodo95.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
