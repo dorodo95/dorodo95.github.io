@@ -25,6 +25,8 @@ article + *, .post-body ~ section {
 .page-title,
 .post-title,
 .post-title a {
+  font-family: "Poppins", serif;
+  font-weight: 800;
   color: $heading-color;
 }
 .page-title,
@@ -85,6 +87,40 @@ h2.post-title, h2.page-title {
       }
     }
   }
+}
+
+.descriptionBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+}
+
+.descriptionItem {
+  display: block; 
+  flex: 0 1 auto;
+  padding:1em;
+  font-family:"Nunito";
+}
+
+.frameWorksBlock {
+  display: flex;
+  gap: 10px;
+  height: 100%;
+  flex-direction: row;
+}
+
+@media (max-width: $large-breakpoint * 1.6)
+  {
+    .frameWorksBlock {
+      flex-direction: column;
+    }
+  }
+
+.vl {
+  width: 2px;
+  height: 100%;
+  background: #777;
 }
 
 button.disqus-load {

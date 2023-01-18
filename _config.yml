@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Devlog
-tagline:          'Portfolio: Rodolfo Salazar'
-description:      'Rodolfo Salazar <br> Technical Artist'
+title:            Rodolfo Salazar
+tagline:          'Technical Art'
+description:      'Technical Artist at Aquiris'
 url:              https://dorodo95.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -21,6 +21,8 @@ author:
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+
+excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-feed
