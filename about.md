@@ -18,7 +18,7 @@ My specialties include:
 - 2D Asset Creation (Substance Designer, Photoshop)
 - UI Integration (UGUI, UMG)
 
-For more information, please check my [Resume] or [Artstation]. 
+For more information, please check my [Resume]. 
 <br>
 You can also contact me at [rodolfosalazar95@gmail.com] for any inquiries or feedbacks.
 

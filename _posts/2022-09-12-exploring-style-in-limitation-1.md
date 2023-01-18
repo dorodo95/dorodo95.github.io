@@ -68,23 +68,24 @@ Once concepts and ideas start evolving and the team starts to create a mental im
 <h3>Design Limitations</h3>
 <ul>
     Achieving a vision for the game experience may also require limitations to be included as part of the Game Design. This can be typically seen in games where the visuals are directly tied in some way to the gameplay, as is the case of titles such as <b>Monument Valley</b> and <b>Echochrome</b>, where the game perspective is impacts on the player navigation and possibilities.
-
+    <br>
     <img src="{{site.baseurl}}/assets/images/monument_valley.webp">
-
+    <br>
     There are also other parts of the visuals that can be utilized in different ways to allow for new gameplay experiences. In the Unfinished Swan, for example, the developers chose to utilize a dual-tone aesthetic in order to play with the idea of exploration through manipulation of positive and negative space.
-
+    <br>
     <img src="{{site.baseurl}}/assets/images/unifinishedSwan.webp">
-
+    <br>
     While other limitations may be imposed on the team, design limitations are purposefully embraced as a way to explore and evolve the interactive medium in other ways not previously seen. These will usually mean that the project is developed in an unorthodox manner, with unique tools and pipelines created for a specific purpose. As such, it can also mean that these limitations can actually make development more expensive, as it will take longer to train the team, may require more time on iterating such tools, which may also need to be reworked if design pillars change on the project, which is more likely due to the unique nature of the project. While this is not inherently a bad thing, it requires a lot of caution and even better communication between different areas than usual.
-
+    <br>
     <h4>Infinite Chase</h4>
     Of course, I couldn't not mention the original Horizon Chase as an example of embracing said limitations. As an homage to retro 2D racers, the original team worked on the entire track system with the objective of it replicating the infinite vanishing point usually seen in 2D racers such as Outrun or Top Gear. As such, the entire environment is a pseudo-3D scene, with the objects actually moving and changing their scale to simulate a 2D-like perspective.
     <br>
     <img src="{{site.baseurl}}/assets/images/hct.png">
     <figcaption>don't believe his lies</figcaption>
+    <br>
 </ul>
 
-On the next part, I'll be talking a bit more in-depth about the sorts of limitations and challenges we had on developing Horizon Chase 2.
+And that's it for now! On the next part, I'll be talking a bit more in-depth about the sorts of limitations and challenges we had on developing Horizon Chase 2.
 
 
 [Masahiro Sakurai's pretty damn good gamedev series]: https://www.youtube.com/c/sora_sakurai_en
