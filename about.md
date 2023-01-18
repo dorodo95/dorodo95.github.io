@@ -20,6 +20,7 @@ My specialties include:
 
 For more information, please check my [Resume]. 
 <br>
+<br>
 You can also contact me at [rodolfosalazar95@gmail.com] for any inquiries or feedbacks.
 
 Thanks!
