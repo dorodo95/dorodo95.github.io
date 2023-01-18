@@ -82,7 +82,6 @@ Once concepts and ideas start evolving and the team starts to create a mental im
 
 While other limitations may be imposed on the team, design limitations are purposefully embraced as a way to explore and evolve the interactive medium in other ways not previously seen. These will usually mean that the project is developed in an unorthodox manner, with unique tools and pipelines created for a specific purpose. As such, it can also mean that these limitations can actually make development more expensive, as it will take longer to train the team and may require more time on iterating such tools, which may also need to be reworked if design pillars change on the project, which is more likely due to the unique nature of the project. While this is not inherently a bad thing, it requires a lot of caution and even better communication between different areas than usual.
 <br>
-
 And that's it for now! On the next part, I'll be talking a bit more in-depth about the sorts of limitations and challenges we had on developing Horizon Chase 2.
 
 
