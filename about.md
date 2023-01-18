@@ -25,7 +25,7 @@ You can also contact me at [rodolfosalazar95@gmail.com] for any inquiries or fee
 
 Thanks!
 
-[Aquiris]: http://aquiris.com.br/
+[Aquiris]: https://www.aquiris.com.br/en/
 [Horizon Chase 2]: https://www.horizonchase.com/
 [Looney Tunes: World of Mayhem]: https://www.youtube.com/watch?v=1HvOzNVPto4
 [Resume]: {% link /assets/files/resume-rodolfo-salazar.pdf %}
