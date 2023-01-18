@@ -1,1 +1,1 @@
-# A Blog/Portfolio site created using Jekyll.
+A Blog/Portfolio site created using Jekyll.
