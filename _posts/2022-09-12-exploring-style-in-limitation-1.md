@@ -75,7 +75,8 @@ Once concepts and ideas start evolving and the team starts to create a mental im
      <br>
     
     Of course, I couldn't not mention the original Horizon Chase as an example of embracing said limitations. As a homage to retro 2D racers, the original team worked on the entire track system with the objective of replicating the infinite vanishing point usually seen in 2D racers such as Outrun or Top Gear. As such, the entire environment is a pseudo-3D scene, with objects actually moving and changing their scale to simulate a 2D-like perspective.
-     <p class="frame"><img src="{{site.baseurl}}/assets/images/hct.png"></p>
+    <p class="frame"><img src="{{site.baseurl}}/assets/images/hct.png"></p>
+    <figcaption>don't believe his lies</figcaption>
     <br>
 </ul>
 
