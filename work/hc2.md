@@ -32,7 +32,7 @@ Some of the challenges I worked on included:
 
 - Fully dynamic lighting
 - Weather conditions
-- Vast, fully 3D maps (in compared to Horizon Chase 1's pseudo 3D environment) 
+- Vast, fully 3D maps (in comparison to Horizon Chase 1's pseudo 3D environment) 
 - Illustrative rendering and materials
 - Asset authoring pipeline for vegetation, props and track modules.
 - Gameplay feature support, adding motions and feedbacks to the UI.
@@ -41,7 +41,7 @@ Some of the challenges I worked on included:
 
 <img src="{{site.baseurl}}/assets/images/HC2-Car.png">
 
-My role also involved creating VFX for the game, dealing with different environment and weathers (i.e, rain, sandstorms), as well as gameplay feedbacks and camera adjustments.
+My role also involved creating VFX for the game, dealing with different environments and weathers (i.e, rain, sandstorms), as well as gameplay feedbacks and camera adjustments.
 
 <img src="{{site.baseurl}}/assets/images/HC2-Waterfall.webp">
 <br>

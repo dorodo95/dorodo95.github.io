@@ -6,7 +6,7 @@ excerpt_separator:  <!--more-->
 
  I've been meaning to start a devblog for a long time now, and I got motivated to do it after watching [Masahiro Sakurai's pretty damn good gamedev series]. If the dude can make that on his spare time, I sure as hell don't have a good excuse to postpone writing this.
 
-With that said, since we've recently Horizon Chase 2 on Apple Arcade, that seemed like a good moment to talk a bit about one of my favourite topics and biggest challenge on that game: using product limitations to guide your project's artstyle.
+With that said, since we've recently launched Horizon Chase 2 on Apple Arcade, that seemed like a good moment to talk a bit about one of my favourite topics and biggest challenge on that game: using product limitations to guide your project's artstyle.
 
 This first part will be more introductory, focused on discussing the concepts and effects on development.
 
@@ -26,7 +26,7 @@ While these two points aren't necessarily interchangeable, they have similar eff
     <li><b>More commitment</b> on decisions you may not be yet comfortable with. The longer it takes for a pipeline to be defined, or a prototype to be tested, the less time you'll have to actually build your systems and tools, and less time for polish in the end! It's important to understand when you need to investigate something further, and when it's time to keep moving forward with development.</li>
     <li><b>Asset Recycling</b>, following the "make more with less" mindset. A single rock may be rotated, scaled, color-tinted and tweaked in several tiny different ways in order to allow the team to use it in different contexts, and create new compositions. While this may make decrease the uniqueness of that asset, it also give the team an ever-growing library of ready-to-use assets, while also allowing for unique assets to have some more extra crafting time.</li>
     <h4> A Case for Game Jams </h4>
-    Game Jams are a great way of enforcing a limited scope and encouraging fresh solutions. On our GMTK entry, <a href= "https://matheuscunegato.itch.io/towerbag">Towerbag</a>, we completely threw sanity out of the window when we decided to add custom drawings for each player upgrade. A lot of time was sunk during production, and we weren't happy with the final results. When we decided to tackle a revamped version of the game, I took a step back and thought what we originally had, and how we could combine design, tech and scalability all in one go.
+    Game Jams are a great way of enforcing a limited scope and encouraging fresh solutions. On our GMTK entry, <a href= "https://matheuscunegato.itch.io/towerbag">Towerbag</a>, we completely threw sanity out of the window when we decided to add custom drawings for each player upgrade. A lot of time was sunk during production, and we weren't happy with the final results. When we decided to tackle a revamped version of the game, I took a step back and thought about what we originally had, and how we could combine design, tech and scalability all in one go.
     <figure>
     <p class="frame"><img src="{{site.baseurl}}/assets/images/towerbag_comparison.png"></p>
     <figcaption>now do the same for 100 other cards</figcaption></figure>
@@ -57,7 +57,7 @@ Once concepts and ideas start evolving and the team starts to create a mental im
     <figcaption>from paper to paperer </figcaption>
     
     <h4>Evolution of the medium</h4>
-    As hardware evolve, certain techniques become available for developers to explore. This is especially interesting when you consider the other way around, as games used all sorts of smoke and mirrors to achieve a certain vision. On traditional IPs that had several entries over the years, the development team can utilize this as a way to showcase an evolution for the franchise, and give us a glimpse of new ideas and concepts that were previously impossible to be achieved due to said limitations. A good example of this is the Yakuza series, which had most of its games taking place in the Kamurocho district, which managed to keep a lot of its original structure intact over the years. As the idea of a big city with several light sources and pedestrians walking around, the RGG team chose certain technical and design limitations to work with the hardware. 
+    As hardwares evolve, certain techniques become available for developers to explore. This is especially interesting when you consider the other way around, as games used all sorts of smoke and mirrors to achieve a certain vision. On traditional IPs that had several entries over the years, the development team can utilize this as a way to showcase an evolution for the franchise, and give us a glimpse of new ideas and concepts that were previously impossible to be achieved due to said limitations. A good example of this is the Yakuza series, which had most of its games taking place in the Kamurocho district, which managed to keep a lot of its original structure intact over the years. As the idea of a big city with several light sources and pedestrians walking around, the RGG team chose certain technical and design limitations to work with the hardware. 
     <p class="frame"><img src="{{site.baseurl}}/assets/images/yakuzacomp.png"></p>
     <figcaption>kamurocho was portrayed on many different generations, each one bring it to life on its own way</figcaption>
 
@@ -67,18 +67,18 @@ Once concepts and ideas start evolving and the team starts to create a mental im
 
 <h3>Design Limitations</h3>
 <ul>
-    Achieving a vision for the game experience may also require limitations to be included as part of the Game Design. This can be typically seen in games where the visuals are directly tied in some way to the gameplay, as is the case of titles such as <b>Monument Valley</b> and <b>Echochrome</b>, where the game perspective is impacts on the player navigation and possibilities.
+    Achieving a vision for the game experience may also require limitations to be included as part of the Game Design. This can be typically seen in games where the visuals are directly tied in some way to the gameplay, as is the case of titles such as <b>Monument Valley</b> and <b>Echochrome</b>, where the game's camera perspective impacts on the player navigation and possible actions.
     <br>
     <img src="{{site.baseurl}}/assets/images/monument_valley.webp">
     <br>
-    There are also other parts of the visuals that can be utilized in different ways to allow for new gameplay experiences. In the Unfinished Swan, for example, the developers chose to utilize a dual-tone aesthetic in order to play with the idea of exploration through manipulation of positive and negative space.
+    There are also other parts of the visuals that can be utilized in different ways to allow for new gameplay experiences. In <b>The Unfinished Swan</b>, for example, the developers utilized a dual-tone aesthetic in order to play with the idea of exploration through manipulation of positive and negative space.
     <br>
     <img src="{{site.baseurl}}/assets/images/unifinishedSwan.webp">
     <br>
-    While other limitations may be imposed on the team, design limitations are purposefully embraced as a way to explore and evolve the interactive medium in other ways not previously seen. These will usually mean that the project is developed in an unorthodox manner, with unique tools and pipelines created for a specific purpose. As such, it can also mean that these limitations can actually make development more expensive, as it will take longer to train the team, may require more time on iterating such tools, which may also need to be reworked if design pillars change on the project, which is more likely due to the unique nature of the project. While this is not inherently a bad thing, it requires a lot of caution and even better communication between different areas than usual.
+    While other limitations may be imposed on the team, design limitations are purposefully embraced as a way to explore and evolve the interactive medium in other ways not previously seen. These will usually mean that the project is developed in an unorthodox manner, with unique tools and pipelines created for a specific purpose. As such, it can also mean that these limitations can actually make development more expensive, as it will take longer to train the team and may require more time on iterating such tools, which may also need to be reworked if design pillars change on the project, which is more likely due to the unique nature of the project. While this is not inherently a bad thing, it requires a lot of caution and even better communication between different areas than usual.
     <br>
     <h4>Infinite Chase</h4>
-    Of course, I couldn't not mention the original Horizon Chase as an example of embracing said limitations. As an homage to retro 2D racers, the original team worked on the entire track system with the objective of it replicating the infinite vanishing point usually seen in 2D racers such as Outrun or Top Gear. As such, the entire environment is a pseudo-3D scene, with the objects actually moving and changing their scale to simulate a 2D-like perspective.
+    Of course, I couldn't not mention the original Horizon Chase as an example of embracing said limitations. As a homage to retro 2D racers, the original team worked on the entire track system with the objective of replicating the infinite vanishing point usually seen in 2D racers such as Outrun or Top Gear. As such, the entire environment is a pseudo-3D scene, with objects actually moving and changing their scale to simulate a 2D-like perspective.
     <br>
     <img src="{{site.baseurl}}/assets/images/hct.png">
     <figcaption>don't believe his lies</figcaption>

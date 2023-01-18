@@ -24,9 +24,9 @@ title: Looney Tunes WoM
   </div>
 <br>
 
-<b>Looney Tunes: World of Mayhem</b> is a Mobile RPG released in December 2018 for mobile devices. It was developed in partnership with Scopely and Warner Bros.
+<b>Looney Tunes: World of Mayhem</b> is a Turn-based RPG released in December 2018 for mobile devices. It was developed in partnership with Scopely and Warner Bros.
 
-Following the structure of a typical free-to-play turn-based RPG, players collect and train characters in the LT universe in order to form stronger teams and duel against other players.
+Following the structure of a typical free-to-play RPGs, players collect and train characters from the LT universe in order to form stronger teams and duel against other players.
 
 My responsabilities included UI visual implementation for features, as well as VFX and other animation feedbacks. Eventually, I joined the content team and worked on VFX for characters as well as pipeline improvements and other gameplay visual tech, such as global LUTs, status effects and custom shaders for unique characters, while running smoothly on old hardware (GLES 2.0). We utilize traditional rendering techniques for low performance cost and work closely with the art team to prototype ideas that can be used to give more tools for character development.
 
