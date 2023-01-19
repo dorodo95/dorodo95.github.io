@@ -24,6 +24,8 @@ paginate:         5
 
 excerpt_separator: <!--more-->
 
+google_analytics: "G-2ZT6PJRPT2"
+
 plugins:
   - jekyll-feed
   - jekyll-gist
