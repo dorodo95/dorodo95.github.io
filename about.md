@@ -8,7 +8,7 @@ Hello there!
 
 I'm <b>Rodolfo</b>, and I'm a <b>Senior Technical Artist</b> currently working at [Aquiris] on [Horizon Chase 2]. I've been working in the industry for the past 5 years and I'm extremely motivated by empowering artists and making cool stuff. I have a huge affinity for understanding more about rendering, with a special place for environments, lighting and VFX.
 <br><br>
-I believe a lot in the potential of games bring to the world as an interactive medium, and my vision for TA is that studying the tools and techniques help me become a better artist and help the team get closer to achieving their vision for the art in a project.
+I believe a lot in the potential of games bring to the world as an interactive medium, and my vision for TA is that studying these tools and techniques help me become a better artist, and help the team get closer to achieving their vision for the art in a project.
 <br><br>
 The goal of this website is to serve as both a portfolio and a hub to share some knowledge and impressions about gamedev, and help others who are interested in learning more about TA.
 <br><br>
