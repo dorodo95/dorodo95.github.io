@@ -11,7 +11,7 @@ hc2Role: "TA, VFX"
 looneyGameName: "Looney Tunes: World of Mayhem"
 looneyDate: 2018
 looneyPlatform: "Android, iOS"
-looneyRole: "UI, VFX, Asset Pipeline"
+looneyRole: "TA, VFX"
 
 ---
 
@@ -21,14 +21,14 @@ looneyRole: "UI, VFX, Asset Pipeline"
   <div class = "frameWorks"> 
   <a href="{{ site.hydeout.repo }}/work/hc2">
         <img src="{{site.baseurl}}/assets/images/hc2.png" class = "workBanner">
-        <div class = "descriptionTitle">{{page.hc2GameName}} ({{page.hc2Date}}) <br> {{page.hc2Platform}}</div>
+        <div class = "descriptionTitle">{{page.hc2GameName}} ({{page.hc2Date}}) <br> {{page.hc2Platform}} <br> {{page.hc2Role}} </div>
       </a>   <script> </script>
       </div>
 
   <div class = "frameWorks"> 
   <a href="{{ site.hydeout.repo }}/work/looneytunes">
         <img src="{{site.baseurl}}/assets/images/wom.png" class = "workBanner">
-        <div class = "descriptionTitle">{{page.looneyGameName}} ({{page.looneyDate}}) <br> {{page.looneyPlatform}}</div>
+        <div class = "descriptionTitle">{{page.looneyGameName}} ({{page.looneyDate}}) <br> {{page.looneyPlatform}} <br> {{page.looneyRole}}</div>
       </a>   <script> </script>
       </div>
 </div>

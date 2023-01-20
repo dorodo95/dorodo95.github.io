@@ -30,14 +30,14 @@ As a sequel, this project had a lot of ambitions and ideas in order to evolve th
 
 Some of the challenges I worked on included:
 
-- Fully dynamic lighting
-- Weather conditions
-- Vast, fully 3D maps (in comparison to Horizon Chase 1's pseudo 3D environment) 
-- Illustrative rendering and materials
-- Asset authoring pipeline for vegetation, props and track modules.
+- Fully dynamic lighting and Time of Day system and pipeline
+- Weather conditions on environments and props
+- Optimization techniques for vast, fully 3D maps (in comparison to Horizon Chase 1's pseudo 3D environment) 
+- Illustrative rendering techniques and shader creation
+- Asset authoring pipeline for stylized vegetation, props and track modules.
 - Gameplay feature support, adding motions and feedbacks to the UI.
 
- Stylization became a north for the project early on in order to tackle those issues, with shape language and brushstrokes becoming an unifying pillar in the project, from concepts to 3D Modeling, UI, texturing, shader and VFX. While we make use of PBR techniques in the project, we don't use it as an anchor, developing our own solutions when necessary. One example of this is our custom shading for the cars, in order to look more like a painted metal.
+ Stylization became a north for the project early on in order to tackle those issues, with shape language and brushstrokes becoming an unifying pillar in the project, from concepts to 3D Modeling, UI, texturing, shader and VFX. While we make use of PBR techniques in the project, we don't use it as an anchor, developing our own solutions when necessary. One example of this is our custom shading for the cars, in order to look more like a painted metal, and our effects which tend to have brush marks or strong shape language in them.
 
 <img src="{{site.baseurl}}/assets/images/HC2-Car.png">
 
