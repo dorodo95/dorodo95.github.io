@@ -6,7 +6,7 @@ sidebar_link: true
 
 Hello there! 
 
-I'm <b>Rodolfo</b>, and I'm a <b>Senior Technical Artist</b> currently working at [Aquiris] on [Horizon Chase 2]. I've been working in the industry for the past 5 years and I'm extremely motivated by empowering artists and making cool stuff. I have a huge affinity for understanding more about rendering, with a special place for environments, lighting and VFX.
+I'm <b>Rodolfo</b>, and I'm a <b>Technical Artist</b> currently working at [Monomi Park] on [Slime Rancher 2]. I've been working in the industry for the past 5 years and I'm extremely motivated by empowering artists and making cool stuff. I have a huge affinity for understanding more about rendering, with a special place for environments, lighting and VFX.
 <br><br>
 I believe a lot in the potential of games bring to the world as an interactive medium, and my vision for TA is that studying these tools and techniques help me become a better artist, and help the team get closer to achieving their vision for the art in a project.
 <br><br>
@@ -29,9 +29,8 @@ You can also contact me at [rodolfosalazar95@gmail.com] for any inquiries or fee
 
 Thanks!
 
-[Aquiris]: https://www.aquiris.com.br/en/
-[Horizon Chase 2]: https://www.horizonchase.com/
-[Looney Tunes: World of Mayhem]: https://www.youtube.com/watch?v=1HvOzNVPto4
+[Monomi Park]: http://www.monomipark.com/
+[Slime Rancher 2]: https://www.slimerancher.com/
 [Resume]: {% link /assets/files/resume-rodolfo-salazar.pdf %}
 [Artstation]: https://www.artstation.com/dorodo
 [rodolfosalazar95@gmail.com]: mailto:rodolfosalazar95@gmail.com
