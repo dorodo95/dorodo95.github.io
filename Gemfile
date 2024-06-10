@@ -1,9 +1,10 @@
 source "https://rubygems.org"
-gemspec
-gem "jekyll"
-gem 'jekyll-feed'
-gem 'jekyll-gist'
-gem 'jekyll-paginate'
-gem 'kramdown-parser-gfm'
-gem 'faraday-retry'
+
+gem "bundler", "~> 2.0"
+gem "jekyll", "~> 4.3"
+gem 'jekyll-feed', "~> 0.17"
+gem 'jekyll-gist', "~> 1.5"
+gem 'jekyll-paginate', "~> 1.1"
+gem 'kramdown-parser-gfm', "~> 1.1"
+gem 'faraday-retry', "~> 2.0"
 gem "webrick", "~> 1.7"
